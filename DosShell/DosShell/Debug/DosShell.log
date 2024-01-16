@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\3rd SEMESTER\DSA\LAB\New folder (2)\DosShell\DosShell\DOS.h(440,12): warning C4129: '&': unrecognized character escape sequence
+D:\3rd SEMESTER\DSA\LAB\New folder (2)\DosShell\DosShell\DOS.h(12,21): warning C4018: '<': signed/unsigned mismatch
+D:\3rd SEMESTER\DSA\LAB\New folder (2)\DosShell\DosShell\DOS.h(83,17): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+D:\3rd SEMESTER\DSA\LAB\New folder (2)\DosShell\DosShell\DOS.h(109,17): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  DosShell.vcxproj -> D:\3rd SEMESTER\DSA\LAB\New folder (2)\DosShell\Debug\DosShell.exe
